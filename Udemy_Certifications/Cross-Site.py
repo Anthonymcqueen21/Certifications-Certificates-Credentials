@@ -1,0 +1,1 @@
+print('Cross-Site Scripting')
